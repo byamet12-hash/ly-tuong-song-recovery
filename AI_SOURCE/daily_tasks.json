@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-08-28",
+    "name": "Kiểm tra llama.cpp",
+    "done": false
+  },
+  {
+    "date": "2026-08-28",
+    "name": "Kiểm tra model Local",
+    "done": false
+  },
+  {
+    "date": "2026-08-28",
+    "name": "Test Qwen Local",
+    "done": false
+  }
+]

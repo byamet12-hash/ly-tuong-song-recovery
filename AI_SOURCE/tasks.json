@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Kiểm tra llama.cpp",
+    "plan": "Xây AI Local",
+    "done": true
+  },
+  {
+    "name": "Kiểm tra model Local",
+    "plan": "Xây AI Local",
+    "done": false
+  },
+  {
+    "name": "Test Qwen Local",
+    "plan": "Xây AI Local",
+    "done": false
+  },
+  {
+    "name": "Kiểm tra memory.json",
+    "plan": "Xây Memory",
+    "done": false
+  },
+  {
+    "name": "Test ghi Memory",
+    "plan": "Xây Memory",
+    "done": false
+  },
+  {
+    "name": "Test đọc Memory",
+    "plan": "Xây Memory",
+    "done": false
+  },
+  {
+    "name": "Kiểm tra goals.json",
+    "plan": "Xây Goal",
+    "done": false
+  },
+  {
+    "name": "Test cập nhật tiến độ",
+    "plan": "Xây Goal",
+    "done": false
+  },
+  {
+    "name": "Kết nối Goal với Plan",
+    "plan": "Xây Goal",
+    "done": false
+  },
+  {
+    "name": "Tạo Manager Agent",
+    "plan": "Xây Multi-Agent",
+    "done": false
+  },
+  {
+    "name": "Tạo Research Agent",
+    "plan": "Xây Multi-Agent",
+    "done": false
+  },
+  {
+    "name": "Tạo Planner Agent",
+    "plan": "Xây Multi-Agent",
+    "done": false
+  },
+  {
+    "name": "Kết nối các Agent",
+    "plan": "Xây Multi-Agent",
+    "done": false
+  }
+]

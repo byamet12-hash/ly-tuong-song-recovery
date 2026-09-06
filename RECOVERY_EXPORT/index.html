@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lý Tưởng Sống — Recovery Center</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f7f9f8;color:#17211b}
+header{padding:40px 20px;background:white;border-bottom:1px solid #ddd}
+main{max-width:1000px;margin:auto;padding:25px}
+.card{background:white;padding:18px;margin:12px 0;border-radius:14px;border:1px solid #e5e5e5}
+h1{margin:0 0 8px}
+h2{margin-top:0}
+code{background:#f1f3f2;padding:3px 6px;border-radius:5px}
+</style>
+</head>
+<body>
+<header>
+<h1>Lý Tưởng Sống</h1>
+<p>Version Recovery Center</p>
+</header>
+<main>
+<div class="card">
+<h2>🔒 Recovery System</h2>
+<p>Kho phục hồi được thiết kế để bảo toàn các phiên bản cũ.</p>
+</div>
+
+<div class="card">
+<h2>📦 Version Map</h2>
+<pre id="versions">Đang tải...</pre>
+</div>
+
+<div class="card">
+<h2>🛡️ Chính sách</h2>
+<p>Không tự động xóa hoặc ghi đè phiên bản cũ.</p>
+</div>
+</main>
+<script>
+const versions = [
+"V0.3","V0.4","V1.0","V1.1","V1.7","V1.8",
+"V2.0","V3.0","V3.1","V3.2","V4.0","V5.x","V6.0","V7.0","WEB"
+];
+document.getElementById("versions").textContent =
+versions.join("\n");
+</script>
+</body>
+</html>

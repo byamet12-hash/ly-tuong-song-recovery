@@ -1,0 +1,18 @@
+[
+  {
+    "step": "Xây AI Local",
+    "done": false
+  },
+  {
+    "step": "Xây Memory",
+    "done": false
+  },
+  {
+    "step": "Xây Goal",
+    "done": false
+  },
+  {
+    "step": "Xây Multi-Agent",
+    "done": false
+  }
+]
